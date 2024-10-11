@@ -8,4 +8,5 @@
     <form action="game.php" method="get">
         <button type="submit">ゲームスタート</button>
 </form>
+</body>
 </html>
